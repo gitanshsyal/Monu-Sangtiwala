@@ -272,7 +272,7 @@ $(document).ready(function(){
   </script>
   </head>
   <body>
-  <form>
+  <form enctype="multipart/form-data" action="index.php" method="post">
   <div>
         <nav class = "navbar navbar-default" style="background-color:darkgrey;height:100px;"
 role = "navigation" >
